@@ -1,4 +1,6 @@
-# set memory as
+# memory format work order
+
+now your memory is virtual text file what value is
 
 `````memoryformat
 [memoryformat setting user require]
@@ -35,7 +37,7 @@ do rename-data and edit-data
 
 ## about
 
-this memory format name is GPTMemoryConfig-0.0.1
+this memory format name is GPTMemoryConfig-0.0.2 3m2a2432 prerelease
 
 ````
 `````
